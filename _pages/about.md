@@ -38,7 +38,7 @@ In AKBC’2020.
 
 News
 ------
-[2021.11] Our team has been selected to participate in the Alexa Prize [SimBot Challenge](https://www.amazon.science/alexa-prize).
+[2021.11] Our team has been selected to participate in the Alexa Prize [SimBot Challenge](https://www.amazon.science/alexa-prize). Congrats to our team!
 
 <!-- Service
 ------ -->
