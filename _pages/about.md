@@ -23,6 +23,7 @@ Publications
 Hyperspectral Image Super-Resolution in Arbitrary Input-Output Band Settings.
 Zhongyang Zhang, Zhiyang Xu, Zia Ahmed, Asif Salekin, Tauhidur Rahman. 
 In Workshop on Applications of Computational Imaging, in WACV’ 2022
+[Paper](https://arxiv.org/pdf/2103.10614.pdf)
 
 2021
 
