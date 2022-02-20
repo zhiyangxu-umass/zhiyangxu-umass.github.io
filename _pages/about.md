@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year Ph. D. student in the Computer Science Department, at Virginia Tech advised by [Prof. Lifu Huang](https://wilburone.github.io/). Previously I obtained my MS degree in Computer Science from Umass Amherst where I worked at [IESL](http://www.iesl.cs.umass.edu/). I obtained my BS degree in Computer Systems Engineering from Rensselaer Polytechnic Institute.
+I am a first year Ph. D. student in the Computer Science Department, at Virginia Tech advised by [Prof. Lifu Huang](https://wilburone.github.io/). Previously I obtained my MS degree in Computer Science from Umass Amherst where I worked closely with [IESL](http://www.iesl.cs.umass.edu/) and [MOSAIC Lab](https://mosaic.cs.umass.edu/). I obtained my BS degree in Computer Systems Engineering from Rensselaer Polytechnic Institute.
 
 Research Interests
 ======
