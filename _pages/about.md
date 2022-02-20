@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io)
+I am a first year Ph. D. student in the Computer Science Department, at Virginia Tech advised by [Prof. Lifu Huang](https://wilburone.github.io/). Previously I obtained my MS degree in Computer Science from Umass Amherst where I worked at [IESL](http://www.iesl.cs.umass.edu/). I obtained my BS degree in Computer Systems Engineering from Rensselaer Polytechnic Institute.
 
 Research Interests
 ======
-My primary research intersts are in NLP and Semi-supervised learning.
+My primary research intersts are in Natural Language Processing and Semi-supervised Learning. I am especially intersted in extracting structured and actionable knowledge with limited supervision.
 
 Publications
 ======
