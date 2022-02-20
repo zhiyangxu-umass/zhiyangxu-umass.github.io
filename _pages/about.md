@@ -21,12 +21,12 @@ Publications
 2022
 
 Zhongyang Zhang, Zhiyang Xu, Zia Ahmed, Asif Salekin, Tauhidur Rahman. 
-Hyperspectral Image Super-Resolution in Arbitrary Input-Output Band Settings.  
+Hyperspectral Image Super-Resolution in Arbitrary Input-Output Band Settings. 
 In Workshop on Applications of Computational Imaging, at WACV’ 2022. [[Paper]](https://arxiv.org/pdf/2103.10614.pdf)
 
 2021
 
-Zhiyang Xu*, Andrew Drozdov*, Jay Yoon Lee, Tim O’Gorman, Subendhu Rongali, Dylan Finkbeiner, Shilpa Suresh, Mohit Iyyer and Andrew McCallum. 
+Zhiyang Xu\*, Andrew Drozdov\*, Jay Yoon Lee, Tim O’Gorman, Subendhu Rongali, Dylan Finkbeiner, Shilpa Suresh, Mohit Iyyer and Andrew McCallum. 
 Improved Latent Tree Induction with distant Supervision via Span Constraints. 
 In EMNLP’ 2021. [[Paper]](https://arxiv.org/pdf/2109.05112.pdf)
 
@@ -40,7 +40,7 @@ News
 ------
 [2021.11] Our team has been selected to participate in the Alexa Prize [SimBot Challenge](https://www.amazon.science/alexa-prize).
 
-Service
-------
+<!-- Service
+------ -->
 
 
