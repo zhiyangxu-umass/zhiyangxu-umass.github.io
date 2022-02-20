@@ -16,16 +16,21 @@ My primary research intersts are in Natural Language Processing and Semi-supervi
 
 Publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+* equal contribution
+
+2022
+
+2021
+Improved Latent Tree Induction with distant Supervision via Span Constraints
+Zhiyang Xu*, Andrew Drozdov*, Jay Yoon Lee, Tim O’Gorman, Subendhu Rongali, Dylan Finkbeiner, Shilpa Suresh, Mohit Iyyer and Andrew McCallum. 
+
+2020
+Using BibTeX to Automatically Generate Labeled Data for Citation Field Extraction. Dung Thai, Zhiyang Xu, Nicholas Monath, Boris Veytsman and Andrew McCallum. In AKBC’2020
+
 
 News
 ------
-
+[2021.11] Our team has been selected to participate in the Alexa Prize [SimBot Challenge](https://www.amazon.science/alexa-prize).
 
 Service
 ------
