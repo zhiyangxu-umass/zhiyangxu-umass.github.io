@@ -34,7 +34,7 @@ In EMNLP’ 2021.
 
 Dung Thai, Zhiyang Xu, Nicholas Monath, Boris Veytsman and Andrew McCallum. 
 [Using BibTeX to Automatically Generate Labeled Data for Citation Field Extraction](https://arxiv.org/pdf/2006.05563.pdf). 
-In AKBC’2020.
+In AKBC’ 2020.
 
 News
 ------
