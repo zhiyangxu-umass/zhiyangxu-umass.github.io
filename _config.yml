@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Zhiyang Xu"
 title_separator          : "-"
 name                     : &name "Zhiyang Xu"
 description              : &description "Ph.D. student at Virginia Tech"
@@ -84,10 +84,11 @@ author:
   avatar           : "profile.png"
   bio              : "Ph.D. student at Virginia Tech"
   location         : "Blacksburg, Virginia, USA"
+  email            : "zhiyangx [at] vt [dot] edu"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=11zbVUAAAAAJ&hl=en&oi=sra"
-  email            :
+  semanticscholar  : "https://www.semanticscholar.org/author/Z.-Xu/4230728"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +104,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
