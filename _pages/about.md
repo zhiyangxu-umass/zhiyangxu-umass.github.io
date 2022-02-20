@@ -16,17 +16,25 @@ My primary research intersts are in Natural Language Processing and Semi-supervi
 
 Publications
 ======
-* equal contribution
+\* equal contribution
 
 2022
 
+Hyperspectral Image Super-Resolution in Arbitrary Input-Output Band Settings.
+Zhongyang Zhang, Zhiyang Xu, Zia Ahmed, Asif Salekin, Tauhidur Rahman. 
+In Workshop on Applications of Computational Imaging, in WACV’ 2022
+
 2021
+
 Improved Latent Tree Induction with distant Supervision via Span Constraints
 Zhiyang Xu*, Andrew Drozdov*, Jay Yoon Lee, Tim O’Gorman, Subendhu Rongali, Dylan Finkbeiner, Shilpa Suresh, Mohit Iyyer and Andrew McCallum. 
+In EMNLP’ 2021.
 
 2020
-Using BibTeX to Automatically Generate Labeled Data for Citation Field Extraction. Dung Thai, Zhiyang Xu, Nicholas Monath, Boris Veytsman and Andrew McCallum. In AKBC’2020
 
+Using BibTeX to Automatically Generate Labeled Data for Citation Field Extraction. 
+Dung Thai, Zhiyang Xu, Nicholas Monath, Boris Veytsman and Andrew McCallum. 
+In AKBC’2020
 
 News
 ------
