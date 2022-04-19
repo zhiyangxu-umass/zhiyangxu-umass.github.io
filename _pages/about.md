@@ -38,7 +38,7 @@ In AKBC’ 2020.
 
 News
 ------
-[2022.4] Interested in probing potential bias in Pre-trained Language Model? Check out our new paper [Identifying and Measuring Token-Level Sentiment Bias in Pre-trained Language Models with Prompts](https://arxiv.org/abs/2204.07289).
+[2022.4] Interested in probing potential bias in Pre-trained Language Model? Check out our new paper [Identifying and Measuring Token-Level Sentiment Bias in Pre-trained Language Models with Prompts](https://arxiv.org/abs/2204.07289).<br>
 [2021.11] Our team has been selected to participate in the Alexa Prize [SimBot Challenge](https://www.amazon.science/alexa-prize). Congrats to our team!
 
 <!-- Service
